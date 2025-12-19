@@ -1,4 +1,4 @@
 # democode
 this is my repository.
 <br>
-author = mayank patel
+author = mayank (patel)
