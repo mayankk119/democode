@@ -1,2 +1,3 @@
 # democode
-this is my repository
+this is my repository.
+author = mayank patel
